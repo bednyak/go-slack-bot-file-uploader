@@ -1,4 +1,4 @@
-# Go-CRUD-API-example
+# Go-Slack-Bot-File-Uploader
 
 ### Preparation
 
